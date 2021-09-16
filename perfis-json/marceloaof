@@ -1,0 +1,9 @@
+{
+  "indicadores":{
+    "seguranca":{
+      "comunicacao":{
+        "emailseguro":"n"
+      }
+    }
+  }
+}
