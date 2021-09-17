@@ -1,11 +1,10 @@
 {
   "indicadores":{
-    "seguranca":{
-      "comunicacao":{
-        "emailSeguro":"n",
-        "rastreadoresNoWebsite":"p",
-        "segurancaDoTelefone":"s"
-      }
+    "comunicacaoRespeitosa":{
+      "dimensao":"interna",
+      "emailSeguro":"n",
+      "siteRastreadores":"p",
+      "telefoneSeguro":"s"
     }
   }
 }
