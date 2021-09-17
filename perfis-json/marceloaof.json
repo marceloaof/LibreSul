@@ -1,7 +1,6 @@
 {
   "indicadores":{
     "comunicacaoRespeitosa":{
-      "dimensao":"interna",
       "emailSeguro":"n",
       "siteRastreadores":"p",
       "telefoneSeguro":"s"
