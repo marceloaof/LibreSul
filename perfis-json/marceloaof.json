@@ -2,7 +2,9 @@
   "indicadores":{
     "seguranca":{
       "comunicacao":{
-        "emailSeguro":"n"
+        "emailSeguro":"n",
+        "rastreadoresNoWebsite":"p",
+        "segurancaDoTelefone":"s"
       }
     }
   }
