@@ -2,11 +2,11 @@
   "indicadores":{
     "posicionamentoPublico":{
       "hospedagemNativa":"n"
-    }
+    },
     "ambienteRespeitoso":{
       "politicaPrivacidade":"s",
       "comunicacaoEmail":"p"
-    }
+    },
       "comunicacaoRespeitosa":{
       "integridadeMidias":"n"
     }
