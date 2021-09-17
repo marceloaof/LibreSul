@@ -1,9 +1,14 @@
 {
   "indicadores":{
+    "posicionamentoPublico":{
+      "hospedagemNativa":"n"
+    }
     "ambienteRespeitoso":{
-      "emailSeguro":"n",
-      "siteRastreadores":"p",
-      "telefoneSeguro":"s"
+      "politicaPrivacidade":"s",
+      "comunicacaoEmail":"p"
+    }
+      "comunicacaoRespeitosa":{
+      "integridadeMidias":"n"
     }
   }
 }
