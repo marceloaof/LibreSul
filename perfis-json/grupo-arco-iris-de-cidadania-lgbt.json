@@ -1,0 +1,14 @@
+{
+  "indicadores":{
+    "posicionamentoPublico":{
+      "hospedagemNativa":"n"
+    },
+    "ambienteRespeitoso":{
+      "politicaPrivacidade":"p",
+      "comunicacaoEmail":"n"
+    },
+      "comunicacaoRespeitosa":{
+      "integridadeMidias":"n"
+    }
+  }
+}
